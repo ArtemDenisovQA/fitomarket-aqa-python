@@ -1,3 +1,18 @@
+# Виртуальное окружение
 venv/
+
+# Кэш Python
 __pycache__/
+
+# Мусор macOS
 .DS_Store
+
+# Allure отчёты (сырые и HTML) — не храним в git
+reports/allure/
+reports/allure-html/
+
+# Логи
+*.log
+
+# Artem Denisov
+
